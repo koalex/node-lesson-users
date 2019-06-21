@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "auth": "koalex/node-lesson-auth",
     "koa-router": "^7.4.0"
   }
 }
