@@ -1,4 +1,4 @@
-const mongoose = require('../../../lib/mongoose');
+const mongoose = require('server/lib/mongoose');
 const crypto   = require('crypto');
 
 const userSchema = new mongoose.Schema({
